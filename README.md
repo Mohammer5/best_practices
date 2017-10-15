@@ -4,3 +4,21 @@
 
 This way it's easy to search for files in large projects by simply remembering the file location rather than a unique filename,
 which many times is hard to find anyways.
+
+# Working without the mouse
+
+## Browser
+
+With the Vimium plugin for chrome, you'll be able to do almost everything without the mouse.
+
+## Coding
+
+In order to never use the mouse again, these are the application to rescue:
+
+* tmux
+* vim
+  * General plugins 
+    * command-t (For opening files)
+  * Typescript
+    * typescript-vim (Syntax highlighting)
+    * tsuquyomi (IDE-like functionality) 

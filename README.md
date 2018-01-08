@@ -5,6 +5,14 @@
 This way it's easy to search for files in large projects by simply remembering the file location rather than a unique filename,
 which many times is hard to find anyways.
 
+# Programming
+
+## Bottom-up
+
+[http://paulgraham.com/progbot.html](Paul Graham - Programming bottom-up)
+Think about also adjusting the language to your need instead of adjusting just the program itself to fulfill its purpose.
+This way your language extension might be used in other projects as well!
+
 # Working without the mouse
 
 ## Browser
